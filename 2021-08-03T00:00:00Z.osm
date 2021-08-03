@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-08-03T01:06:31Z" areas="2021-08-03T00:42:14Z"/>
+
+<action type="modify">
+<old>
+  <node id="8147539577" version="5" timestamp="2021-08-02T20:19:21Z" changeset="109050772" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="8147539577" lat="38.7123882" lon="-9.1350723" version="4" timestamp="2021-03-09T20:45:56Z" changeset="100732767" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="6"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="LSB-01134"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Mobi.E"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="ref" v="LSB-01134"/>
+    <tag k="socket:type2" v="6"/>
+    <tag k="socket:type2:current" v="16"/>
+    <tag k="socket:type2:output" v="3.7kW"/>
+    <tag k="socket:type2:voltage" v="230"/>
+  </node>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="8270303689" lat="32.6468540" lon="-16.9226944" version="4" timestamp="2021-08-02T18:28:39Z" changeset="109047413" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="location" v="underground"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="FUN-00020 - Parque SABA"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="EDP Comercial"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="ref" v="FUN-00020"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="8270303689" visible="true" version="3" timestamp="2021-03-09T20:44:34Z" changeset="100732707" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="8362478494" lat="38.7494553" lon="-9.1786037" version="5" timestamp="2021-08-02T18:11:14Z" changeset="109046795" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="LSB-00309"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Mobiletric"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="ref" v="LSB-00309"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="8362478494" visible="true" version="4" timestamp="2021-05-27T19:03:39Z" changeset="105445327" uid="347293" user="Alexmol"/>
+</new>
+</action>
+
+</osm>
