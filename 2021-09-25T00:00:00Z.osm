@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-09-25T01:02:42Z" areas="2021-09-24T23:53:47Z"/>
+
+<action type="delete">
+<old>
+  <node id="8207101044" lat="37.6509990" lon="-8.2286016" version="8" timestamp="2021-09-24T21:08:20Z" changeset="111667128" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Ourique"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="1"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="ORQ-00002"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="EVCE"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="ref" v="ORQ-00002"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="8207101044" visible="true" version="7" timestamp="2021-08-06T15:14:39Z" changeset="109268989" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="8440984274" lat="38.9313698" lon="-9.0168790" version="5" timestamp="2021-09-24T21:08:20Z" changeset="111667128" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Vila Franca de Xira"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="suporte@mobiletric.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="VFX-00017 - Intermarché"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Mobiletric"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="phone" v="+351 800 210 204"/>
+    <tag k="ref" v="VFX-00017"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:current" v="63"/>
+    <tag k="socket:type2_cable:output" v="43kW"/>
+    <tag k="socket:type2_cable:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="8440984274" visible="true" version="4" timestamp="2021-08-03T20:05:59Z" changeset="109112081" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="8477405036" lat="41.2701728" lon="-8.2877111" version="8" timestamp="2021-09-24T19:54:37Z" changeset="111664830" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Lousada"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="apoio.cliente@kmlowcost.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="LOU-XXXXX - Pingo Doce"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="KLC"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="phone" v="+351 800 296 929"/>
+    <tag k="ref" v="LOU-XXXXX;LSD-00001"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:current" v="63"/>
+    <tag k="socket:type2_cable:output" v="43kW"/>
+    <tag k="socket:type2_cable:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="8477405036" visible="true" version="7" timestamp="2021-09-23T22:25:47Z" changeset="111621353" uid="347293" user="Alexmol"/>
+</new>
+</action>
+
+</osm>
