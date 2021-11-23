@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-11-23T01:04:39Z" areas="2021-11-23T00:09:59Z"/>
+
+<action type="delete">
+<old>
+  <node id="8308913922" lat="38.7107428" lon="-9.2998356" version="6" timestamp="2021-11-22T20:01:58Z" changeset="114112712" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="9"/>
+    <tag k="email" v="apoio.cliente@kmlowcost.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="OER-00046/47/48/49/50/51/52/53/54"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="KLC"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="phone" v="+351 800 296 929"/>
+    <tag k="ref" v="OER-00046;OER-00047;OER-00048;OER-00049;OER-00050;OER-00051;OER-00052;OER-00053;OER-00054"/>
+    <tag k="socket:type2" v="9"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="8308913922" visible="true" version="5" timestamp="2021-10-20T21:42:23Z" changeset="112764354" uid="347293" user="Alexmol"/>
+</new>
+</action>
+
+</osm>
