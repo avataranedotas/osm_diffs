@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-01-28T01:07:09Z" areas="2022-01-28T00:45:51Z"/>
+
+<action type="delete">
+<old>
+  <node id="8113094742" lat="41.5495968" lon="-8.4192677" version="10" timestamp="2022-01-27T20:18:51Z" changeset="116681108" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="1"/>
+    <tag k="email" v="info@evce.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="location" v="underground"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="BRG-00020 - Parque Visconde do Raio"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="EVCE"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="phone" v="+351 253 623 190"/>
+    <tag k="ref" v="BRG-00020"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="8113094742" visible="true" version="9" timestamp="2021-10-28T21:58:19Z" changeset="113099535" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="9454047258" lat="41.2019316" lon="-8.3414380" version="1" timestamp="2022-01-27T21:44:34Z" changeset="116683627" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="1"/>
+    <tag k="name" v="Altaroda"/>
+    <tag k="network" v="none"/>
+    <tag k="operator" v="Altaroda"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</old>
+<new>
+  <node id="9454047258" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="9454047259" lat="41.5559867" lon="-8.3764368" version="1" timestamp="2022-01-27T21:44:34Z" changeset="116683627" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="1"/>
+    <tag k="name" v="Hotel do Parque - PCR"/>
+    <tag k="network" v="none"/>
+    <tag k="operator" v="Hotel do Parque"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+  </node>
+</old>
+<new>
+  <node id="9454047259" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="9454047260" lat="41.5559235" lon="-8.3764596" version="1" timestamp="2022-01-27T21:44:34Z" changeset="116683627" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="2"/>
+    <tag k="name" v="Hotel do Parque - PCN"/>
+    <tag k="network" v="none"/>
+    <tag k="operator" v="Hotel do Parque"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="16"/>
+    <tag k="socket:type2:output" v="11kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</old>
+<new>
+  <node id="9454047260" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+
+</osm>
