@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-03-30T01:43:25Z" areas="2022-03-30T01:43:25Z"/>
+
+<action type="delete">
+<old>
+  <node id="8289261751" lat="38.3065975" lon="-7.7082369" version="8" timestamp="2022-03-29T11:54:56Z" changeset="119066088" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="mobilidade.electricacrc@galp.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="PRL-00001"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Galp Power"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="phone" v="+351 800 249 249"/>
+    <tag k="ref" v="PRL-90001"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="8289261751" visible="true" version="7" timestamp="2021-10-03T10:03:08Z" changeset="112027074" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="8833480188" lat="40.6500296" lon="-8.6214536" version="7" timestamp="2022-03-29T19:26:12Z" changeset="119085646" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Aveiro"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="apoio.cliente@kmlowcost.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="AVR-00035 - Pingo Doce"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="KLC"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="phone" v="+351 800 296 929"/>
+    <tag k="ref" v="AVR-00035"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="60kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="8833480188" visible="true" version="6" timestamp="2022-03-28T23:43:59Z" changeset="119044175" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="9269624287" lat="38.8599710" lon="-9.0749610" version="3" timestamp="2022-03-29T11:54:56Z" changeset="119066088" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="VFX-00023"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="KLC"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="ref" v="VFX-00023"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="9269624287" visible="true" version="2" timestamp="2022-01-29T16:47:35Z" changeset="116752071" uid="347293" user="Alexmol"/>
+</new>
+</action>
+
+</osm>
