@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-05-03T02:02:55Z" areas="2022-05-03T01:08:24Z"/>
+
+<action type="delete">
+<old>
+  <node id="8497383440" lat="41.2668470" lon="-8.2904670" version="7" timestamp="2022-05-02T09:33:35Z" changeset="120452342" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Lousada"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:street" v="Rua do Comércio"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="mobilidade.electricacrc@galp.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Galp"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="note" v="Por erro da Mobi.E o código do posto é LSD (concelho que não existe) em vez de LOU"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Galp Power"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="phone" v="+351 800 249 249"/>
+    <tag k="ref" v="LOU-XXXXX;LSD-00002"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:current" v="63"/>
+    <tag k="socket:type2_cable:output" v="43kW"/>
+    <tag k="socket:type2_cable:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="8497383440" visible="true" version="6" timestamp="2022-01-28T15:45:36Z" changeset="116712738" uid="347293" user="Alexmol"/>
+</new>
+</action>
+
+</osm>
