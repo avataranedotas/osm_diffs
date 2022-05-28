@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-05-28T01:51:39Z" areas="2022-05-28T01:27:14Z"/>
+
+<action type="modify">
+<old>
+  <node id="7028317346" version="6" timestamp="2022-05-27T13:34:06Z" changeset="121577164" uid="2820801" user="Reino Baptista"/>
+</old>
+<new>
+  <node id="7028317346" lat="37.0232997" lon="-8.9261422" version="5" timestamp="2022-04-21T15:59:18Z" changeset="120007848" uid="8339" user="mtmail">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:postcode" v="8650-908"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Martinhal Sagres Beach Familty Resort Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="phone" v="+351 282 240 200"/>
+    <tag k="ref" v="dc71608"/>
+    <tag k="socket:tesla_destination" v="2"/>
+    <tag k="socket:tesla_destination:output" v="22kW"/>
+    <tag k="socket:type2_cable" v="2"/>
+    <tag k="socket:type2_cable:output" v="22kW"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+  </node>
+</new>
+</action>
+
+</osm>
