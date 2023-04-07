@@ -22,4 +22,4 @@ echo Consulta: $consulta
 
 #fazer consulta e gravar em ficheiro
 
-wget -O $HOJE.osm "https://z.overpass-api.de/api/interpreter?data=$consulta"
+wget -O $HOJE.osm "https://overpass-api.de/api/interpreter?data=$consulta"
