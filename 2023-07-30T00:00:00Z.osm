@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-07-30T01:24:20Z" areas="2023-07-29T20:20:28Z"/>
+
+<action type="create">
+  <node id="966120841" lat="38.7325607" lon="-9.4104739" version="8" timestamp="2022-05-14T12:09:25Z" changeset="120976521" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Alcabideche"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:postcode" v="2645"/>
+    <tag k="addr:street" v="Largo 5 de Outubro"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="ajuda@powerdot.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="CSC-00010"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Powerdot"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 180 292"/>
+    <tag k="ref" v="CSC-90010"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="16"/>
+    <tag k="socket:type2:output" v="3.7kW"/>
+    <tag k="socket:type2:voltage" v="230"/>
+  </node>
+</action>
+<action type="modify">
+<old>
+  <node id="3703042048" version="13" timestamp="2023-07-29T11:22:55Z" changeset="139169122" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="3703042048" lat="38.7592265" lon="-9.1358803" version="12" timestamp="2023-06-17T17:23:39Z" changeset="137455464" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Lisboa"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="1700-322"/>
+    <tag k="addr:street" v="Rua Alferes Malheiro"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="mobilidade-eletrica@edp.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="LSB-00122"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="EDP Comercial"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 222 222"/>
+    <tag k="ref" v="LSB-90122"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="16"/>
+    <tag k="socket:type2:output" v="3.7kW"/>
+    <tag k="socket:type2:voltage" v="230"/>
+  </node>
+</new>
+</action>
+<action type="create">
+  <node id="3930573518" lat="40.2113753" lon="-8.4442074" version="12" timestamp="2023-02-11T00:26:50Z" changeset="132386945" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Coimbra"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="3030"/>
+    <tag k="addr:street" v="Rua Cova do Portão"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="renewing.charging@mota-engil.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="CBR-00025"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-23:59"/>
+    <tag k="operator" v="Mota Engil II"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 020 940"/>
+    <tag k="ref" v="CBR-00025"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="5191639713" lat="40.6593896" lon="-7.9161477" version="10" timestamp="2023-03-21T20:46:01Z" changeset="133956174" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="apoio.cliente@kmlowcost.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="VIS-00041"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Atlante"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 296 929"/>
+    <tag k="ref" v="VIS-90041"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="16"/>
+    <tag k="socket:type2:output" v="3.7kW"/>
+    <tag k="socket:type2:voltage" v="230"/>
+  </node>
+</action>
+<action type="create">
+  <node id="7132119407" lat="37.2179062" lon="-7.4447724" version="9" timestamp="2022-05-14T12:09:25Z" changeset="120976521" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="ajuda@powerdot.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="CTM-00001"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Powerdot"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 180 292"/>
+    <tag k="ref" v="CTM-90001"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="8078380228" lat="41.2168565" lon="-8.6235487" version="8" timestamp="2022-05-14T12:09:25Z" changeset="120976521" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Matosinhos"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:street" v="Rua da Lionesa"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="ajuda@powerdot.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="MTS-00027 - Lionesa"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Powerdot"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 180 292"/>
+    <tag k="ref" v="MTS-00027"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:current" v="63"/>
+    <tag k="socket:type2_cable:output" v="43kW"/>
+    <tag k="socket:type2_cable:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+  </node>
+</action>
+<action type="delete">
+<old>
+  <node id="8115529943" lat="41.4875975" lon="-7.1827135" version="11" timestamp="2023-07-29T10:03:41Z" changeset="139166539" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="mobilidade-eletrica@edp.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="MDL-00001"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="EDP Comercial"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 222 222"/>
+    <tag k="ref" v="MDL-90001"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="8115529943" visible="true" version="10" timestamp="2023-07-08T11:28:59Z" changeset="138260213" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="modify">
+<old>
+  <node id="8149431051" version="9" timestamp="2023-07-29T11:22:55Z" changeset="139169122" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="8149431051" lat="38.7679206" lon="-9.1838488" version="8" timestamp="2022-05-14T12:09:25Z" changeset="120976521" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="mobilidade-eletrica@edp.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="LSB-00025"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="EDP Comercial"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 222 222"/>
+    <tag k="ref" v="LSB-90025"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="16"/>
+    <tag k="socket:type2:output" v="3.7kW"/>
+    <tag k="socket:type2:voltage" v="230"/>
+  </node>
+</new>
+</action>
+<action type="modify">
+<old>
+  <node id="8553020014" version="10" timestamp="2023-07-29T11:22:55Z" changeset="139169122" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="8553020014" lat="38.9529295" lon="-9.1358564" version="9" timestamp="2022-10-12T19:48:34Z" changeset="127433558" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="geral@eplug.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="ARV-00005"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="E-Plug"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 211 648 577"/>
+    <tag k="ref" v="ARV-00005"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</new>
+</action>
+<action type="create">
+  <node id="8830368192" lat="41.1192369" lon="-8.5112913" version="6" timestamp="2022-05-14T12:09:25Z" changeset="120976521" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="GDM-00010 - Santa Justa"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Evio"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="GDM-00010"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="9455267552" lat="41.3025832" lon="-7.7410939" version="6" timestamp="2022-05-14T12:31:46Z" changeset="120977349" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="manutencaors@repsol.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="VRL-00012 - Repsol"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Repsol"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 226 624"/>
+    <tag k="ref" v="VRL-00012"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:current" v="63"/>
+    <tag k="socket:type2_cable:output" v="43kW"/>
+    <tag k="socket:type2_cable:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+  </node>
+</action>
+<action type="create">
+  <node id="9512110926" lat="39.9681371" lon="-8.7925164" version="4" timestamp="2022-05-14T12:09:25Z" changeset="120976521" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="PBL-00008 - Intermarché"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="High Green Power"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="PBL-00008"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="delete">
+<old>
+  <node id="9588654389" lat="41.4692791" lon="-8.3278067" version="8" timestamp="2023-07-29T10:03:41Z" changeset="139166539" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="manutencaors@repsol.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="GMR-00040 - Repsol"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Repsol"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 226 624"/>
+    <tag k="ref" v="GMR-00040"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="125"/>
+    <tag k="socket:chademo:output" v="60kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="60kW"/>
+    <tag k="socket:type2_combo:voltage" v="920"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="9588654389" visible="true" version="7" timestamp="2023-07-08T11:28:59Z" changeset="138260213" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="create">
+  <node id="9956726498" lat="41.1924732" lon="-8.3057325" version="4" timestamp="2023-03-14T22:37:02Z" changeset="133687279" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="PNF-00017 - JAPblue VW"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="08:00-18:00"/>
+    <tag k="operator" v="Moon"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="PNF-00017"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="200"/>
+    <tag k="socket:chademo:output" v="75kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="200"/>
+    <tag k="socket:type2_combo:output" v="75kW"/>
+    <tag k="socket:type2_combo:voltage" v="1000"/>
+  </node>
+</action>
+<action type="create">
+  <node id="10926826368" lat="39.0804566" lon="-9.2571402" version="2" timestamp="2023-06-21T21:55:12Z" changeset="137623343" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="TVD-00030"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Galp Power"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="TVD-00030"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="60kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="120kW"/>
+    <tag k="socket:type2_combo:voltage" v="950"/>
+  </node>
+</action>
+
+</osm>
