@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-09-09T01:08:43Z" areas="2023-09-08T21:42:35Z"/>
+
+<action type="delete">
+<old>
+  <node id="8255643986" lat="40.8855815" lon="-8.4897226" version="5" timestamp="2023-09-08T17:42:44Z" changeset="140997126" uid="11113526" user="lalolan">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:none" v="yes"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="-1"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Mercadona"/>
+    <tag k="no:network" v="yes"/>
+    <tag k="opening_hours" v="09:00-21:30"/>
+    <tag k="operator" v="Mercadona"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="removed:amenity" v="charging_station"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="16"/>
+    <tag k="socket:type2:output" v="3.7kW"/>
+    <tag k="socket:type2:voltage" v="230"/>
+  </node>
+</old>
+<new>
+  <node id="8255643986" visible="true" version="4" timestamp="2023-03-24T20:27:08Z" changeset="134083596" uid="347293" user="Alexmol"/>
+</new>
+</action>
+
+</osm>
