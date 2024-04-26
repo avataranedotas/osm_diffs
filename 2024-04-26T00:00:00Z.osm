@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-04-26T01:02:22Z" areas="2024-04-25T19:57:03Z"/>
+
+<action type="modify">
+<old>
+  <node id="8220110926" version="6" timestamp="2024-04-25T13:34:38Z" changeset="150497156" uid="21324543" user="CAROLINAPINTO"/>
+</old>
+<new>
+  <node id="8220110926" lat="38.7727771" lon="-9.1051868" version="5" timestamp="2021-03-09T20:48:40Z" changeset="100732871" uid="347293" user="Alexmol">
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="addr:street" v="Avenida Infante Dom Henrique"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="name" v="Nissan Entreposto Lisboa"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="operator" v="Nissan"/>
+    <tag k="network" v="Nissan"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="capacity" v="1"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:city" v="Lisboa"/>
+    <tag k="access" v="customers"/>
+  </node>
+</new>
+</action>
+<action type="modify">
+<old>
+  <node id="8220110927" version="5" timestamp="2024-04-25T13:34:38Z" changeset="150497156" uid="21324543" user="CAROLINAPINTO"/>
+</old>
+<new>
+  <node id="8220110927" lat="38.7725707" lon="-9.1060264" version="4" timestamp="2023-09-29T19:23:08Z" changeset="141927417" uid="347293" user="Alexmol">
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="name" v="Centro Porsche Lisboa"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="operator" v="Porsche"/>
+    <tag k="network" v="Porsche"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="check_date" v="2022-08-08"/>
+    <tag k="capacity" v="1"/>
+    <tag k="addr:street" v="Avenida Doutor Francisco Luís Gomes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:city" v="Lisboa"/>
+    <tag k="access" v="customers"/>
+  </node>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="11847327677" lat="38.7718736" lon="-9.1049015" version="1" timestamp="2024-04-25T13:34:38Z" changeset="150497156" uid="21324543" user="CAROLINAPINTO">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Mercedes-Benz"/>
+    <tag k="description" v="Estacionamento e entrada acessível a pessoas em cadeiras de rodas&#x0a;Adress: 1800-237, Lisboa"/>
+    <tag k="name" v="Mercedes-Benz - Stand de automóveis"/>
+    <tag k="operator" v="Mercedes-Benz"/>
+    <tag k="operator:wikidata" v="Q36008"/>
+  </node>
+</old>
+<new>
+  <node id="11847327677" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+
+</osm>
