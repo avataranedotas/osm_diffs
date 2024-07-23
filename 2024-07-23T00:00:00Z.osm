@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-07-23T01:23:26Z" areas="2024-07-22T20:40:59Z"/>
+
+<action type="delete">
+<old>
+  <node id="11650619049" lat="41.4475070" lon="-8.1707424" version="6" timestamp="2024-07-22T19:36:06Z" changeset="154278345" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="3"/>
+    <tag k="email" v="mobilidade-eletrica@edp.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="FAF-00009 - McDonald's"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="EDP Comercial"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 222 222"/>
+    <tag k="ref" v="FAF-00009"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="125"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="200"/>
+    <tag k="socket:type2_combo:output" v="90kW"/>
+    <tag k="socket:type2_combo:voltage" v="1000"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="11650619049" visible="true" version="5" timestamp="2024-07-05T19:45:17Z" changeset="153602522" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="11958592404" lat="38.7283079" lon="-9.3285164" version="2" timestamp="2024-07-22T19:36:06Z" changeset="154278345" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="CSC-00185"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Charging Together"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="CSC-00185"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="150"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="1000"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="11958592404" visible="true" version="1" timestamp="2024-06-05T14:59:19Z" changeset="152292599" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12046802448" lat="37.1862589" lon="-8.4405511" version="3" timestamp="2024-07-22T21:28:58Z" changeset="154281595" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="SLV-00016 - Lidl"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="08:30-21:00"/>
+    <tag k="operator" v="KLC Serviços"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="SLV-00016"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:current" v="32"/>
+    <tag k="socket:type2_cable:output" v="22kW"/>
+    <tag k="socket:type2_cable:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="12046802448" visible="true" version="1" timestamp="2024-07-10T22:40:36Z" changeset="153802022" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12063761614" lat="40.7471330" lon="-8.4856780" version="2" timestamp="2024-07-22T19:36:06Z" changeset="154278345" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="ALB-00014"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Galp Power"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="ALB-00014"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="12063761614" visible="true" version="1" timestamp="2024-07-19T20:07:29Z" changeset="154157579" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12067231658" lat="37.1286074" lon="-8.2831595" version="1" timestamp="2024-07-22T03:07:33Z" changeset="154242538" uid="350918" user="JPF_pt">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="fee" v="yes"/>
+  </node>
+</old>
+<new>
+  <node id="12067231658" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12068698216" lat="38.4930455" lon="-8.9030694" version="1" timestamp="2024-07-22T19:36:06Z" changeset="154278345" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="4"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="GDL-00031/32"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Helexia II"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="GDL-00031;GDL-00032"/>
+    <tag k="socket:type2" v="4"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="12068698216" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+
+</osm>
