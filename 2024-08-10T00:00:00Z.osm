@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-08-10T01:25:29Z" areas="2024-08-09T20:02:04Z"/>
+
+<action type="delete">
+<old>
+  <node id="12059941750" lat="40.8396556" lon="-8.4802845" version="2" timestamp="2024-08-09T23:39:45Z" changeset="155043728" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="OAZ-00011 - Mercadona"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="09:00-21:00"/>
+    <tag k="operator" v="Iberdrola"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="OAZ-00011"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="12059941750" visible="true" version="1" timestamp="2024-07-17T19:35:44Z" changeset="154072889" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12101238793" lat="41.2369845" lon="-8.6266808" version="4" timestamp="2024-08-09T19:20:00Z" changeset="155037628" uid="11442581" user="pedroccpimenta">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="check_date" v="2024-08-09"/>
+    <tag k="description" v="Ponto de carregamento GOC-PRT-FGR-00001 * ID:001017"/>
+    <tag k="name" v="Ponto de carregamento GOC-PRT-FGR-00001 * ID:001017"/>
+    <tag k="tag" v="amenity=charging_station"/>
+  </node>
+</old>
+<new>
+  <node id="12101238793" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12101243318" lat="41.2370310" lon="-8.6266720" version="3" timestamp="2024-08-09T19:20:00Z" changeset="155037628" uid="11442581" user="pedroccpimenta">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="check_date" v="2024-08-09"/>
+    <tag k="name" v="Ponto de carregamento GOC-PRT-FGR-00002 * ID:001018"/>
+    <tag k="tag" v="amenity=charging_station"/>
+  </node>
+</old>
+<new>
+  <node id="12101243318" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12101523361" lat="39.8128615" lon="-7.5195614" version="1" timestamp="2024-08-09T23:39:45Z" changeset="155043728" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="1"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Moon"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="MOBI-CTB-00004"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="40"/>
+    <tag k="socket:type2_combo:output" v="24kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="12101523361" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+
+</osm>
