@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-12-27T01:41:13Z" areas="2024-12-27T00:10:15Z"/>
+
+<action type="modify">
+<old>
+  <node id="5378178475" version="13" timestamp="2024-12-26T23:22:06Z" changeset="160657065" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="5378178475" lat="38.6455361" lon="-8.2477994" version="12" timestamp="2024-07-10T23:10:29Z" changeset="153802508" uid="347293" user="Alexmol">
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla Supercharger"/>
+    <tag k="brand:wikidata" v="Q17089620"/>
+    <tag k="capacity" v="8"/>
+    <tag k="socket:tesla_supercharger_ccs:output" v="150 kW"/>
+    <tag k="socket:tesla_supercharger:output" v="150 kW"/>
+    <tag k="name" v="Montemor-o-Novo Supercharger"/>
+    <tag k="not:brand:wikidata" v="Q478214"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="short_name" v="Tesla"/>
+    <tag k="socket:tesla_supercharger" v="8"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="socket:tesla_supercharger_ccs" v="8"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="website" v="https://www.tesla.com/findus/location/supercharger/montemoronovosupercharger"/>
+    <tag k="access" v="customers"/>
+    <tag k="authentication:none" v="no"/>
+  </node>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12319622060" lat="39.1000083" lon="-9.2570700" version="2" timestamp="2024-12-26T22:23:04Z" changeset="160655745" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="TVD-00047 - Staples"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="09:00-20:00"/>
+    <tag k="operator" v="EDP"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="TVD-00047"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="12319622060" visible="true" version="1" timestamp="2024-11-06T22:58:24Z" changeset="158836289" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12321248529" lat="41.5462620" lon="-8.7440530" version="2" timestamp="2024-12-26T22:24:48Z" changeset="160655782" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="EPS-00009"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Galp Power"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="EPS-00009"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="12321248529" visible="true" version="1" timestamp="2024-11-07T19:32:45Z" changeset="158869320" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12366150807" lat="40.1116196" lon="-8.2508160" version="2" timestamp="2024-12-26T22:12:18Z" changeset="160655466" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="LSA-00005"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Wowplug"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="LSA-00005"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="12366150807" visible="true" version="1" timestamp="2024-11-22T22:48:17Z" changeset="159477975" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12437684157" lat="38.9158590" lon="-8.8810752" version="2" timestamp="2024-12-26T22:14:32Z" changeset="160655525" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="BNV-00013"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Charging Together"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="BNV-00013"/>
+    <tag k="ref:EU:EVSE" v="PT*FCT*E*BNV*00013*01;PT*FCT*E*BNV*00013*02;PT*FCT*E*BNV*00013*03"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="200"/>
+    <tag k="socket:chademo:output" v="80kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="500"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:type2_combo:voltage" v="1000"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="12437684157" visible="true" version="1" timestamp="2024-12-20T21:56:26Z" changeset="160451020" uid="347293" user="Alexmol"/>
+</new>
+</action>
+
+</osm>
