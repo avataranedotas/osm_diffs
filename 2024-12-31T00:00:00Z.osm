@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-12-31T01:40:45Z" areas="2024-12-30T19:41:30Z"/>
+
+<action type="delete">
+<old>
+  <node id="12115804087" lat="40.6050233" lon="-6.9521248" version="3" timestamp="2024-12-30T16:51:04Z" changeset="160800467" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="8"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="ALD-00008/9/10/11"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Charging Together"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="ALD-00008;ALD-00009;ALD-00010;ALD-00011"/>
+    <tag k="socket:chademo" v="4"/>
+    <tag k="socket:chademo:current" v="200"/>
+    <tag k="socket:chademo:output" v="80kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="8"/>
+    <tag k="socket:type2_combo:current" v="500"/>
+    <tag k="socket:type2_combo:output" v="150kW"/>
+    <tag k="socket:type2_combo:voltage" v="1000"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="12115804087" visible="true" version="2" timestamp="2024-12-23T20:53:17Z" changeset="160553389" uid="347293" user="Alexmol"/>
+</new>
+</action>
+
+</osm>
