@@ -14,7 +14,7 @@ echo Semana: $SEMANA
 
 #construir consulta overpass
 
-consulta="[adiff:"\""$HOJE"\"","\""$ONTEM"\""]; area[name="\""Portugal"\""]->.a; node(area.a)[amenity=charging_station]; compare(delta:t["\""amenity"\""]);out meta;"
+consulta="[adiff:"\""$HOJE"\"","\""$ONTEM"\""]; area(id:3600295480)->.a; node(area.a)[amenity=charging_station]; compare(delta:t["\""amenity"\""]);out meta;"
 #consultasemana="[adiff:"\""$HOJE"\"","\""$SEMANA"\""]; area[name="\""Portugal"\""]->.a; node(area.a)[amenity=charging_station]; compare(delta:t["\""amenity"\""]);out meta;"
 
 echo Consulta: $consulta
