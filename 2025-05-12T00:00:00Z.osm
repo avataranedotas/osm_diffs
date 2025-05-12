@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-05-12T02:00:55Z" areas="2025-02-06T02:17:44Z"/>
+
+<action type="create">
+  <node id="8312977472" lat="41.7441830" lon="-7.4699746" version="5" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="socket:type2" v="4"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Continente Bom Dia Chaves"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="modify">
+<old>
+  <node id="10155745819" version="4" timestamp="2025-05-11T21:23:52Z" changeset="166126847" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="10155745819" lat="41.1675556" lon="-8.6545590" version="3" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="3"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="name" v="Continente Bom Dia"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+  </node>
+</new>
+</action>
+<action type="create">
+  <node id="10201819080" lat="41.1794910" lon="-8.6808477" version="3" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="3"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="name" v="Continente Bom Dia Matosinhos"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="description" v="Postos de carga no piso 1 do estacionamento interior"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="10202043194" lat="41.1707211" lon="-8.6355441" version="2" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="3"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Continente Bom Dia Ramalde"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+  </node>
+</action>
+<action type="modify">
+<old>
+  <node id="10246995935" version="5" timestamp="2025-05-11T21:18:28Z" changeset="166126734" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="10246995935" lat="41.1811353" lon="-8.6152758" version="4" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Continente Bom Dia Amial"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</new>
+</action>
+<action type="modify">
+<old>
+  <node id="10297334790" version="7" timestamp="2025-05-11T17:49:41Z" changeset="166120281" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="10297334790" lat="41.1704494" lon="-8.5706888" version="6" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Continente Bom Dia Fábrica do Cobre"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</new>
+</action>
+<action type="create">
+  <node id="11599401149" lat="41.1855619" lon="-8.1549829" version="2" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Continente Modelo Marco de Canavezes"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="11666814286" lat="41.1977562" lon="-8.4917459" version="2" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Continente Valongo"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="11698702968" lat="41.1742593" lon="-8.5554019" version="2" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Continente Modelo Rio Tinto"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="11795142907" lat="41.2064647" lon="-8.3278913" version="2" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Continente Bom Dia Paredes Centro"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="modify">
+<old>
+  <node id="12041546646" version="3" timestamp="2025-05-11T19:06:53Z" changeset="166122940" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="12041546646" lat="41.1775996" lon="-8.5907047" version="2" timestamp="2025-03-08T17:41:15Z" changeset="163373684" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="website" v="https://plugcharge.continente.pt/"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Continente Plug&amp;Charge"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Continente Bom Dia Asprela"/>
+    <tag k="network" v="Continente Plug&amp;Charge"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Sonae"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="no"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+  </node>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12801323413" lat="38.7078630" lon="-9.4226300" version="2" timestamp="2025-05-11T08:56:25Z" changeset="166098797" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="wowplug"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="CSC-00303"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="True Kare"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="CSC-00303"/>
+    <tag k="ref:EU:EVSE" v="PT*TRK*E*CSC*00303*01;PT*TRK*E*CSC*00303*02"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="12801323413" visible="true" version="1" timestamp="2025-04-30T23:40:08Z" changeset="165655164" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="12827170712" lat="38.7614646" lon="-9.1871614" version="2" timestamp="2025-05-11T09:00:53Z" changeset="166098970" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="fixme" v="Move to exact location"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="LSB-00944"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="EMEL"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="LSB-00944"/>
+    <tag k="ref:EU:EVSE" v="PT*EML*E*LSB*00944*01;PT*EML*E*LSB*00944*02"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="16"/>
+    <tag k="socket:type2:output" v="11kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="12827170712" visible="true" version="1" timestamp="2025-05-10T21:36:03Z" changeset="166086992" uid="347293" user="Alexmol"/>
+</new>
+</action>
+
+</osm>
