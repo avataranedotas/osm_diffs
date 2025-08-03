@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-08-03T02:27:15Z" areas="2025-08-02T22:06:56Z"/>
+
+<action type="modify">
+<old>
+  <node id="6979858406" version="10" timestamp="2025-08-02T20:34:38Z" changeset="169879858" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="6979858406" lat="37.0930308" lon="-8.4555191" version="9" timestamp="2025-07-26T13:12:40Z" changeset="169505935" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Lagoa"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:postcode" v="8400-525"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Hotel Baia Cristal Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="phone" v="+351 282 358 601"/>
+    <tag k="ref" v="dc70983"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:schuko" v="1"/>
+    <tag k="socket:schuko:output" v="3 kW"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+  </node>
+</new>
+</action>
+<action type="create">
+  <node id="8168688307" lat="38.4930961" lon="-8.9029920" version="7" timestamp="2025-07-26T13:14:14Z" changeset="169506027" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="fixme" v="Verificar se ainda existe e se está operacional"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Tróia Design Hotel Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="ref" v="dc81851"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+  </node>
+</action>
+<action type="create">
+  <node id="8198572860" lat="38.7043506" lon="-9.4058391" version="4" timestamp="2025-07-26T13:15:35Z" changeset="169506109" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Intercontinental Estoril Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+    <tag k="socket:type2_cable:output" v="11 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="ref" v="dc25021"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="11 kW"/>
+  </node>
+</action>
+<action type="modify">
+<old>
+  <node id="8198583026" version="8" timestamp="2025-08-02T20:29:27Z" changeset="169879688" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="8198583026" lat="38.6935407" lon="-9.2106106" version="7" timestamp="2025-07-26T13:15:35Z" changeset="169506109" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="location" v="underground"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Altis Belém Hotel &amp; Spa Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="ref" v="dc9590"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="short_name" v="Tesla"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+  </node>
+</new>
+</action>
+<action type="create">
+  <node id="8198651867" lat="38.7396418" lon="-9.1241696" version="4" timestamp="2025-07-26T13:15:35Z" changeset="169506109" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Olaias Park Hotel Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="ref" v="dc33540"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+  </node>
+</action>
+<action type="create">
+  <node id="8198894644" lat="39.3897716" lon="-9.2878810" version="4" timestamp="2025-07-26T13:17:11Z" changeset="169506235" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Hotel Marriott Praia D'El Rey Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="ref" v="dc31576"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+  </node>
+</action>
+<action type="modify">
+<old>
+  <node id="8198940840" version="5" timestamp="2025-08-02T21:12:39Z" changeset="169880859" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="8198940840" lat="39.8075378" lon="-8.8426832" version="4" timestamp="2025-07-26T13:17:11Z" changeset="169506235" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Lisotel Hotel &amp; Spa Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="ref" v="dc24817"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+  </node>
+</new>
+</action>
+<action type="create">
+  <node id="8199379240" lat="41.1602409" lon="-8.6404596" version="9" timestamp="2025-07-26T13:20:51Z" changeset="169506470" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="-1"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Hotel Crowne Plaza Porto Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="operator:wikipedia" v="en:Tesla, Inc."/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="ref" v="dc24669"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="short_name" v="Tesla"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+    <tag k="socket:type2" v="1"/>
+  </node>
+</action>
+<action type="create">
+  <node id="8199383576" lat="41.1466395" lon="-8.6092593" version="4" timestamp="2025-07-26T13:20:28Z" changeset="169506440" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Hotel Teatro Porto Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="ref" v="dc9655"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+  </node>
+</action>
+<action type="delete">
+<old>
+  <node id="8235071744" lat="41.1577885" lon="-8.6335507" version="21" timestamp="2025-08-02T09:34:48Z" changeset="169853907" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Porto"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="addr:street" v="Rua de Agramonte"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Lidl"/>
+    <tag k="brand:wikidata" v="Q151954"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="veiculoeletrico@galp.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="PRT-00310"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="old_operator" v="KLC Serviços"/>
+    <tag k="old_ref" v="PRT-00049;PRT-00232"/>
+    <tag k="opening_hours" v="Mo-Su 08:30-21:30"/>
+    <tag k="operator" v="Galp Power"/>
+    <tag k="operator:wikidata" v="Q135275372"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 249 249"/>
+    <tag k="ref" v="PRT-00310"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:current" v="63"/>
+    <tag k="socket:type2_cable:output" v="43 kW"/>
+    <tag k="socket:type2_cable:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="8235071744" visible="true" version="20" timestamp="2025-08-01T21:03:51Z" changeset="169837948" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="create">
+  <node id="8238693389" lat="38.6754645" lon="-9.1659283" version="5" timestamp="2025-07-26T13:14:33Z" changeset="169506039" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="3"/>
+    <tag k="socket:type2:voltage" v="230"/>
+    <tag k="name" v="Parque Bento Gonçalves"/>
+    <tag k="socket:type2" v="3"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="location" v="underground"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="no:network" v="yes"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-20:00"/>
+    <tag k="operator" v="Parque Bento Gonçalves"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="socket:type2:current" v="30"/>
+    <tag k="socket:type2:output" v="7.2 kW"/>
+  </node>
+</action>
+<action type="create">
+  <node id="8280581499" lat="38.7104602" lon="-9.4611181" version="8" timestamp="2025-07-26T13:15:35Z" changeset="169506109" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="no:network" v="yes"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+  </node>
+</action>
+<action type="create">
+  <node id="8298138506" lat="38.7219313" lon="-9.2177079" version="6" timestamp="2025-07-26T13:15:35Z" changeset="169506109" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Holiday Inn Express Lisboa Alfragide"/>
+    <tag k="no:network" v="yes"/>
+    <tag k="socket:type2_cable:output" v="11 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="11 kW"/>
+  </node>
+</action>
+<action type="create">
+  <node id="8301211338" lat="38.7240810" lon="-9.1502803" version="9" timestamp="2025-07-26T13:15:35Z" changeset="169506109" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="no:network" v="yes"/>
+    <tag k="socket:type2_cable:output" v="22 kW"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="22 kW"/>
+  </node>
+</action>
+<action type="create">
+  <node id="8420578887" lat="41.1573159" lon="-8.6268519" version="12" timestamp="2025-07-26T13:20:51Z" changeset="169506470" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="name" v="PRT-00059"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="1"/>
+    <tag k="email" v="ev_portugal@maksu.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="location" v="underground"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Maksu Services"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 910 124"/>
+    <tag k="ref" v="PRT-00059"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="modify">
+<old>
+  <node id="8420984158" version="17" timestamp="2025-08-02T11:53:21Z" changeset="169859438" uid="347293" user="Alexmol"/>
+</old>
+<new>
+  <node id="8420984158" lat="41.1387439" lon="-8.6095067" version="16" timestamp="2025-08-01T20:26:47Z" changeset="169836864" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="name" v="VNG-00048"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="1"/>
+    <tag k="email" v="ev_portugal@maksu.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="location" v="underground"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Maksu Services"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 910 124"/>
+    <tag k="ref" v="VNG-00048"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+  </node>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="9247019981" lat="38.6176569" lon="-8.0811176" version="15" timestamp="2025-08-02T12:23:35Z" changeset="169860623" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Galp electric"/>
+    <tag k="brand:wikidata" v="Q135275520"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="veiculoeletrico@galp.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="MMN-00005"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Galp Geste"/>
+    <tag k="operator:wikidata" v="Q1492739"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 249 249"/>
+    <tag k="ref" v="MMN-00005"/>
+    <tag k="ref:EU:EVSE" v="PT*GLG*EMMN*00005*01;PT*GLG*EMMN*00005*02"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="9247019981" visible="true" version="14" timestamp="2025-07-26T13:13:54Z" changeset="169506012" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="create">
+  <node id="9323772226" lat="38.6814008" lon="-9.1608515" version="4" timestamp="2025-07-26T13:14:33Z" changeset="169506039" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="3"/>
+    <tag k="socket:type2:voltage" v="230"/>
+    <tag k="name" v="Parque Conde Ferreira"/>
+    <tag k="socket:type2" v="3"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="location" v="underground"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="no:network" v="yes"/>
+    <tag k="operator" v="Parque Conde Ferreira"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="socket:type2:current" v="16"/>
+    <tag k="socket:type2:output" v="3.7 kW"/>
+  </node>
+</action>
+<action type="create">
+  <node id="9455684849" lat="41.3780494" lon="-8.7603079" version="8" timestamp="2025-07-26T13:20:51Z" changeset="169506470" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="3"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="name" v="PVZ-00013/14/15 - Empark Praça do Almada"/>
+    <tag k="ref" v="PVZ-00013;PVZ-00014;PVZ-00015"/>
+    <tag k="socket:type2" v="3"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="email" v="ev_portugal@maksu.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="location" v="underground"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Maksu Services"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 910 124"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="9456398517" lat="40.4944734" lon="-7.6009700" version="13" timestamp="2025-07-26T13:18:19Z" changeset="169506302" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+    <tag k="name" v="GVA-00005 - Lidl"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Lidl"/>
+    <tag k="brand:wikidata" v="Q151954"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="apoio.cliente@kmlowcost.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="old_ref" v="GVA-00002"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="KLC Serviços"/>
+    <tag k="operator:wikidata" v="Q127504745"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 202 060"/>
+    <tag k="ref" v="GVA-00005"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:current" v="63"/>
+    <tag k="socket:type2_cable:output" v="43 kW"/>
+    <tag k="socket:type2_cable:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+  </node>
+</action>
+<action type="delete">
+<old>
+  <node id="9457635109" lat="38.7982096" lon="-9.1772278" version="15" timestamp="2025-08-02T10:51:05Z" changeset="169857120" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Lidl"/>
+    <tag k="brand:wikidata" v="Q151954"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="veiculoeletrico@galp.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="ODV-00048"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="old_operator" v="KLC Serviços"/>
+    <tag k="old_ref" v="ODV-00010;ODV-00022"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Galp Power"/>
+    <tag k="operator:wikidata" v="Q135275372"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 249 249"/>
+    <tag k="ref" v="ODV-00048"/>
+    <tag k="ref:EU:EVSE" v="PT*GLP*EODV*00048*01;PT*GLP*EODV*00048*02;PT*GLP*EODV*00048*03"/>
+    <tag k="socket:chademo" v="1"/>
+    <tag k="socket:chademo:current" v="120"/>
+    <tag k="socket:chademo:output" v="50 kW"/>
+    <tag k="socket:chademo:voltage" v="500"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:current" v="63"/>
+    <tag k="socket:type2_cable:output" v="43 kW"/>
+    <tag k="socket:type2_cable:voltage" v="400"/>
+    <tag k="socket:type2_combo" v="1"/>
+    <tag k="socket:type2_combo:current" v="125"/>
+    <tag k="socket:type2_combo:output" v="50 kW"/>
+    <tag k="socket:type2_combo:voltage" v="500"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="9457635109" visible="true" version="14" timestamp="2025-07-26T13:15:35Z" changeset="169506109" uid="347293" user="Alexmol"/>
+</new>
+</action>
+<action type="create">
+  <node id="11914242913" lat="41.6512127" lon="-8.6228161" version="8" timestamp="2025-07-26T13:21:48Z" changeset="169506516" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="uCharge"/>
+    <tag k="capacity" v="2"/>
+    <tag k="email" v="geral@ucharge.pt"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="PTL-00018"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="old_ref" v="PRS-00003"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Logical Gravity"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 210 939 606;+351 224 801 080"/>
+    <tag k="ref" v="PTL-00018"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="12072355371" lat="38.6936398" lon="-9.2106470" version="6" timestamp="2025-07-26T13:15:35Z" changeset="169506109" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="capacity" v="4"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+    <tag k="socket:type2_combo:voltage" v="1000"/>
+    <tag k="socket:type2_combo:output" v="100 kW"/>
+    <tag k="name" v="LSB-00714/715/722"/>
+    <tag k="ref" v="LSB-00714;LSB-00715;LSB-00722"/>
+    <tag k="socket:type2" v="2"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="helexia"/>
+    <tag k="email" v="geral.pt@helexia.eu"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Helexia II"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 210 181 157"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="375"/>
+  </node>
+</action>
+<action type="create">
+  <node id="12530366753" lat="41.1572472" lon="-8.6268693" version="4" timestamp="2025-07-26T13:20:51Z" changeset="169506470" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="name" v="PRT-00061"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="1"/>
+    <tag k="email" v="ev_portugal@maksu.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="location" v="underground"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Maksu Services"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 910 124"/>
+    <tag k="ref" v="PRT-00061"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="12530366754" lat="41.1572816" lon="-8.6268606" version="3" timestamp="2025-07-26T13:20:51Z" changeset="169506470" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="name" v="PRT-00060"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="1"/>
+    <tag k="email" v="ev_portugal@maksu.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="location" v="underground"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Maksu Services"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 910 124"/>
+    <tag k="ref" v="PRT-00060"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+    <tag k="socket:type2:voltage" v="400"/>
+  </node>
+</action>
+<action type="create">
+  <node id="12663557547" lat="41.1387606" lon="-8.6094497" version="5" timestamp="2025-08-01T20:26:47Z" changeset="169836864" uid="347293" user="Alexmol">
+    <tag k="amenity" v="charging_station"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+    <tag k="socket:type2:voltage" v="400"/>
+    <tag k="name" v="VNG-00050"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="capacity" v="1"/>
+    <tag k="email" v="ev_portugal@maksu.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="location" v="underground"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Maksu Services"/>
+    <tag k="parking:fee" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 910 124"/>
+    <tag k="ref" v="VNG-00050"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="22 kW"/>
+  </node>
+</action>
+<action type="delete">
+<old>
+  <node id="13042767416" lat="40.1573093" lon="-8.8491845" version="2" timestamp="2025-08-02T17:49:02Z" changeset="169874293" uid="347293" user="Alexmol">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="Prio"/>
+    <tag k="brand:wikidata" v="Q62530421"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="yes"/>
+    <tag k="fixme" v="Move to exact location"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="FIG-00041"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Prio.E"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="ref" v="FIG-00041"/>
+    <tag k="ref:EU:EVSE" v="PT*PRI*E*FIG*00041*01;PT*PRI*E*FIG*00041*02"/>
+    <tag k="socket:type2_combo" v="2"/>
+    <tag k="socket:type2_combo:current" v="300"/>
+    <tag k="socket:type2_combo:output" v="180 kW"/>
+    <tag k="socket:type2_combo:voltage" v="1000"/>
+    <tag k="website" v="https://www.mobie.pt/"/>
+  </node>
+</old>
+<new>
+  <node id="13042767416" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="13042861978" lat="41.5478860" lon="-8.4239052" version="1" timestamp="2025-08-02T12:06:30Z" changeset="169859966" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="authentication:app" v="yes"/>
+    <tag k="authentication:membership_card" v="yes"/>
+    <tag k="authentication:none" v="no"/>
+    <tag k="brand" v="edp Charge"/>
+    <tag k="brand:wikidata" v="Q135275389"/>
+    <tag k="capacity" v="1"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="unlimited"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="network" v="Mobi.E"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="EDP"/>
+    <tag k="operator:wikidata" v="Q1341222"/>
+    <tag k="parking:fee" v="no"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="payment:membership_card" v="yes"/>
+    <tag k="phone" v="+351 800 222 222"/>
+    <tag k="ref" v="BRG-00037"/>
+    <tag k="ref:EU:EVSE" v="PT*EDP*EBRG*00037*1"/>
+    <tag k="socket:type2" v="1"/>
+    <tag k="socket:type2:current" v="32"/>
+    <tag k="socket:type2:output" v="7.4 kW"/>
+    <tag k="socket:type2:voltage" v="230"/>
+    <tag k="website" v="https://www.mobie.pt"/>
+  </node>
+</old>
+<new>
+  <node id="13042861978" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="13043749714" lat="37.0788180" lon="-8.1269485" version="2" timestamp="2025-08-02T21:57:05Z" changeset="169881923" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="The Lake Spa Resort Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="phone" v="+351 289 320 700"/>
+    <tag k="ref" v="dc81854"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="6 kW"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:output" v="6 kW"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+  </node>
+</old>
+<new>
+  <node id="13043749714" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="13043781974" lat="40.4080595" lon="-7.5675778" version="1" timestamp="2025-08-02T22:06:26Z" changeset="169882085" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Casa das Penhas Douradas Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="phone" v="+351 275 981 045"/>
+    <tag k="ref" v="441326"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="19 kW"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:output" v="19 kW"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+  </node>
+</old>
+<new>
+  <node id="13043781974" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+<action type="delete">
+<old>
+  <node id="13043792838" lat="40.2027936" lon="-7.6378906" version="1" timestamp="2025-08-02T21:56:33Z" changeset="169881913" uid="347293" user="Alexmol">
+    <tag k="access" v="customers"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Tesla"/>
+    <tag k="brand:wikidata" v="Q478214"/>
+    <tag k="capacity" v="2"/>
+    <tag k="fee" v="no"/>
+    <tag k="motorcar" v="yes"/>
+    <tag k="name" v="Cherry Sculpture Hotel Tesla Destination Charger"/>
+    <tag k="network" v="Tesla"/>
+    <tag k="operator" v="Tesla"/>
+    <tag k="operator:wikidata" v="Q478214"/>
+    <tag k="phone" v="+351 275 961 101"/>
+    <tag k="ref" v="441326"/>
+    <tag k="socket:tesla_destination" v="1"/>
+    <tag k="socket:tesla_destination:output" v="16 kW"/>
+    <tag k="socket:type2_cable" v="1"/>
+    <tag k="socket:type2_cable:output" v="16 kW"/>
+    <tag k="website" v="https://www.tesla.com/pt_PT/findus/list/chargers/Portugal"/>
+  </node>
+</old>
+<new>
+  <node id="13043792838" visible="false" version="0" timestamp="0000-00-00T00:00:00Z" changeset="0" uid="0" user=""/>
+</new>
+</action>
+
+</osm>
