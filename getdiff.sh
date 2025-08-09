@@ -7,6 +7,7 @@
 HOJE=`date -d "today 00:00" +"%Y-%m-%dT%TZ"`
 ONTEM=`date -d "yesterday 00:00" +"%Y-%m-%dT%TZ"`
 SEMANA=`date -d "7 day ago 00:00" +"%Y-%m-%dT%TZ"`
+MONTH_FOLDER=$(date -u +"%Y-%m")
 
 echo Hoje  : $HOJE
 echo Ontem : $ONTEM
@@ -20,6 +21,9 @@ consulta="[adiff:"\""$HOJE"\"","\""$ONTEM"\""]; area(id:3600295480)->.a; node(ar
 echo Consulta: $consulta
 #echo Consultasemana: $consultasemana
 
-#fazer consulta e gravar em ficheiro
 
-wget -O $HOJE.osm "https://overpass-api.de/api/interpreter?data=$consulta"
+# Create folder if it doesn't exist
+mkdir -p "$MONTH_FOLDER"
+
+#fazer consulta e gravar em ficheiro
+wget -O "$MONTH_FOLDER/$HOJE.osm" "https://overpass-api.de/api/interpreter?data=$consulta"
